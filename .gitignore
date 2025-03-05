@@ -1,0 +1,7 @@
+.env
+funcs.txt
+test.py
+test1.py
+__pycache__
+.streamlit
+secrets.toml
