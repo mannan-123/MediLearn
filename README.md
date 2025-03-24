@@ -1,4 +1,4 @@
-# MediLearn
+# MediLearn: Enhancing Diagnostic Training with LLM
 
 ## Overview
 
